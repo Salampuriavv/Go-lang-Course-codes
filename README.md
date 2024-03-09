@@ -31,7 +31,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/golang-everyday-learning.git
+git clone https://github.com/Salampuriavv/golang-everyday-learning.git
 cd golang-everyday-learning
 Run the code for a specific day:
 
